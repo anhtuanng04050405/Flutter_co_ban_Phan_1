@@ -8,7 +8,8 @@
 <summary><b>II. Phân biệt Stateful Widget và Stateless Widget</b></summary>
 Thông thường ta sử dụng Stateless Widget khi cần sử dụng giao diện tĩnh, còn Stateful Widget khi ta cần giao diện động có thể thay đổi theo tương tác của người dùng.<br>
 Khi một widget cần quản lý trạng thái của chính nó thì là Stateful còn không thì là Stateless.
-<b>Stateless Widget:</b> [1.dart](./1.dart)<br>
+  
+<b>Stateless Widget:</b> [1.dart](./1.dart) <br>
 <b>Stateful Widget:</b> [2.dart](./2.dart), [3.dart](./3.dart)
 </details>
 <details>
